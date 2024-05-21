@@ -3,3 +3,4 @@ Second message.
 Merge et fetch.
 pull.
 Je fais des modifications.
+Je refais des modifications.
